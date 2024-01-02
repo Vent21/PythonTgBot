@@ -1,0 +1,6 @@
+/.idea/
+/data/configs.py
+/__pycache__/
+birthday_reminder.py
+*.pyc
+
