@@ -52,7 +52,7 @@ def get_weather():
 
         return result
 
-    # то, что мы всегда получаем
+
     except Exception as ex:
         print(ex)
         return "Что то пошло не так!"
